@@ -1,0 +1,8 @@
+C:\Users\Morne\Documents\GitHub\225_Projek_DD\225_Project_DD\225_Project_DD\bin\Debug\225_Project_DD.exe.config
+C:\Users\Morne\Documents\GitHub\225_Projek_DD\225_Project_DD\225_Project_DD\bin\Debug\225_Project_DD.exe
+C:\Users\Morne\Documents\GitHub\225_Projek_DD\225_Project_DD\225_Project_DD\bin\Debug\225_Project_DD.pdb
+C:\Users\Morne\Documents\GitHub\225_Projek_DD\225_Project_DD\225_Project_DD\obj\Debug\225_Project_DD.csprojResolveAssemblyReference.cache
+C:\Users\Morne\Documents\GitHub\225_Projek_DD\225_Project_DD\225_Project_DD\obj\Debug\_225_Project_DD.Properties.Resources.resources
+C:\Users\Morne\Documents\GitHub\225_Projek_DD\225_Project_DD\225_Project_DD\obj\Debug\225_Project_DD.csproj.GenerateResource.Cache
+C:\Users\Morne\Documents\GitHub\225_Projek_DD\225_Project_DD\225_Project_DD\obj\Debug\225_Project_DD.exe
+C:\Users\Morne\Documents\GitHub\225_Projek_DD\225_Project_DD\225_Project_DD\obj\Debug\225_Project_DD.pdb
